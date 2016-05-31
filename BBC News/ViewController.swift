@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         
         localNotification.alertAction = "View Story"
         
-        localNotification.alertBody = "Show Not Tell finds patients at risk from doctors with heart rates over"
+        localNotification.alertBody = "Tom Wicks makes semi useful tool for impressing your friends with fake news story notifications"
         
         localNotification.fireDate = NSDate(timeIntervalSinceNow: 20)
         
